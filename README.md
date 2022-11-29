@@ -1,2 +1,5 @@
-# GameTecZone
-Sistema para empresa de informática para controlar OS e etc, mas foi cancelado pelo cliente.
+# gameteczone<br>
+Sistema de oficina feito em PHP, HTML, CSS, MYSQL e JQUERY.<br>
+Utilizavel com a versao 7.3 do PHP.<br>
+Sistema com os modulos de OS, compra, venda, controle financeiro, controle de estoque e relatorios.<br>
+***********SISTEMA NÃO FINALIZADO***********
